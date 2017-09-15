@@ -1,0 +1,6 @@
+
+Image Editing example
+http://hydrashare.github.io/hydra/viewer?owner=chriswmackey&fork=hydra_2&id=LANDSAT_Thermal_Image_Importer
+
+Shae Benefit Example
+http://hydrashare.github.io/hydra/viewer?owner=chriswmackey&fork=hydra_2&id=Outdoor_Comfort_Shade_Benefit
